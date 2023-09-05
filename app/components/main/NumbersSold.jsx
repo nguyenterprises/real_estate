@@ -62,19 +62,19 @@ const NumbersSold = () => {
                 number="94"
                 address="924 Bel Air Rd"
                 delay="2"
-                link="/listing/924-bel-air-rd-los-angeles-california-90077"
+                link="/listing/924-bel-air-rd-los-angeles-california-90077-sold"
               />
               <SoldNumber
                 number="70"
                 address="1181 Hillcrest"
                 delay="2.75"
-                link="/listing/1181-n-hillcrest-rd-beverly-hills-90210"
+                link="/listing/1181-n-hillcrest-rd-beverly-hills-90210-sold"
               />
               <SoldNumber
                 number="29"
                 address="53 Beverly Park"
                 delay="3.25"
-                link="/listing/53-beverly-parkway-beverly-hills-california"
+                link="/listing/53-beverly-parkway-beverly-hills-california-sold"
               />
             </div>
           </div>
