@@ -16,7 +16,7 @@ const NumbersSold = () => {
           two={width < 640 ? "Machine" : "Performance"}
         />
       </div>
-      <div className="bg-slate-100 w-full flex flex-col items-center">
+      <div className="flex w-full flex-col items-center bg-slate-100">
         <motion.div
           variants={staggerContainer}
           initial="hidden"
@@ -62,19 +62,19 @@ const NumbersSold = () => {
                 number="94"
                 address="924 Bel Air Rd"
                 delay="2"
-                link="/listing/924-bel-air-rd-los-angeles-ca-90077"
+                link="/listing/924-bel-air-rd-los-angeles-california-90077"
               />
               <SoldNumber
                 number="70"
                 address="1181 Hillcrest"
                 delay="2.75"
-                link="/listing/1181-n-hillcrest-road-beverly-hills-90210"
+                link="/listing/1181-n-hillcrest-rd-beverly-hills-90210"
               />
               <SoldNumber
                 number="29"
                 address="53 Beverly Park"
                 delay="3.25"
-                link="/listing/53-beverly-park-way-beverly-hills-ca-90210"
+                link="/listing/53-beverly-parkway-beverly-hills-california"
               />
             </div>
           </div>
